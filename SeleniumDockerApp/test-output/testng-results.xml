@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-10-28T12:42:45 CAT" name="Suite" finished-at="2021-10-28T17:31:14 CAT" duration-ms="17309176">
+    <groups>
+    </groups>
+    <test started-at="2021-10-28T12:42:45 CAT" name="Test" finished-at="2021-10-28T17:31:14 CAT" duration-ms="17309176">
+      <class name="dockerContainers.DockerRunningOnFirefox_2">
+        <test-method signature="Test_2()[pri:0, instance:dockerContainers.DockerRunningOnFirefox_2@fba92d3]" started-at="2021-10-28T12:44:39 CAT" name="Test_2" finished-at="2021-10-28T12:45:14 CAT" duration-ms="35208" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_2 -->
+      </class> <!-- dockerContainers.DockerRunningOnFirefox_2 -->
+      <class name="dockerContainers.DockerRunningOnFirefox_3">
+        <test-method signature="Test_3()[pri:0, instance:dockerContainers.DockerRunningOnFirefox_3@662b4c69]" started-at="2021-10-28T12:45:14 CAT" name="Test_3" finished-at="2021-10-28T12:45:53 CAT" duration-ms="38698" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_3 -->
+      </class> <!-- dockerContainers.DockerRunningOnFirefox_3 -->
+      <class name="dockerContainers.DockerRunningOnFirefox_1">
+        <test-method signature="test_1()[pri:0, instance:dockerContainers.DockerRunningOnFirefox_1@67c33749]" started-at="2021-10-28T12:44:25 CAT" name="test_1" finished-at="2021-10-28T12:44:39 CAT" duration-ms="13807" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_1 -->
+      </class> <!-- dockerContainers.DockerRunningOnFirefox_1 -->
+      <class name="dockerContainers.ControlDockerSeleniumGrid">
+        <test-method is-config="true" signature="startDockerGrid()[pri:0, instance:dockerContainers.ControlDockerSeleniumGrid@6f46426d]" started-at="2021-10-28T12:42:45 CAT" name="startDockerGrid" finished-at="2021-10-28T12:44:25 CAT" duration-ms="100031" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDockerGrid -->
+        <test-method is-config="true" signature="stopDockerGrid()[pri:0, instance:dockerContainers.ControlDockerSeleniumGrid@6f46426d]" started-at="2021-10-28T12:45:53 CAT" name="stopDockerGrid" finished-at="2021-10-28T17:31:14 CAT" duration-ms="17121387" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopDockerGrid -->
+      </class> <!-- dockerContainers.ControlDockerSeleniumGrid -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
