@@ -5,6 +5,7 @@ To Run this framework you you to have the following tools installed in your  mac
 * JAVA_HOME Variable
 * Docker( ensure Docker is installed on you local machine)
 
-The documentation of this is on the email the the link to this repository was provided
+The detailed documentation of this project is on the email that had link to this repository 
 
-Thank you for taking your time to go through my stall..
+ if any thing goes side ways or you may want to provide some input, please dont hestitate to call email me @ rabulanyanahope@gmail.com
+Thank you for taking your time to go through my staff
